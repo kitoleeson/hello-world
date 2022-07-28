@@ -1,8 +1,8 @@
 # hello-world
 learning github
 
-# kito lee son
-## ualberta hip internship
+## kito lee son
+### ualberta hip internship
 
 im almost 4 weeks done and im excited to continue and learn more
 > currently learning about github while listening to:
