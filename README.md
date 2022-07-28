@@ -13,6 +13,3 @@ im almost 4 weeks done and im excited to continue and learn more
 > 5. jason mraz
 
 im learning markdown syntax while making this using [this link](https://www.markdownguide.org/cheat-sheet)
-
-i wonder if ==very important words== can also be ~~struckthrough~~
-seems like they ~~==can('t)==~~
